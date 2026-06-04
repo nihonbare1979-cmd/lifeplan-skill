@@ -30,7 +30,7 @@
 
 ```bash
 # 1. このリポジトリを ~/.claude/skills/lifeplan に配置
-git clone https://github.com/<your-account>/lifeplan-skill.git ~/.claude/skills/lifeplan
+git clone https://github.com/nihonbare1979-cmd/lifeplan-skill.git ~/.claude/skills/lifeplan
 #   （zipでダウンロードした場合は、展開した lifeplan フォルダを ~/.claude/skills/ に置く）
 
 # 2. 依存ライブラリをインストール
